@@ -2334,3 +2334,11 @@ li a {
   text-decoration: none;
 }
 
+ul#horilist {
+	min-width: 696px;
+	list-style: none;
+	padding-top: 20px;
+	}
+	ul#horilist{
+		display: inline;
+	}
